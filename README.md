@@ -1,4 +1,4 @@
-# Who am I? 👋
+# Who am I?
 I am an android developer since 2018. 
 I worked with Java for two years and then switched to Kotlin.
 More about me [here](https://alexander-kolmachikhin.github.io/).
