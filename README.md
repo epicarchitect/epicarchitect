@@ -1,5 +1,5 @@
-### Hi there 👋
-I am an android developer since 2018.
+# Who am I? 👋
+I am an android developer since 2018. 
 I worked with Java for two years and then switched to Kotlin.
 
 # My apps on Google Play
