@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Kolmachikhin <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px" height="40px">
+#<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px" height="40px"> Hi, I'm Alexander Kolmachikhin
 I am an android developer since 2018. 
 I worked with <b>Java</b> for two years and then switched to <b>Kotlin</b>.
 More about me [here](https://alexander-kolmachikhin.github.io/).
