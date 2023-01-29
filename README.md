@@ -9,6 +9,6 @@ More about me [here](https://epicarchitect.github.io).
 
 <img src="https://media.giphy.com/media/l0HlKjAZTc6NHCSdy/giphy.gif">
 
-[![epicarchitect GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=epicarchitect&hide_border=true&count_private=true&show_icons=true&bg_color=21262d&border_radius=8.0&theme=github_dark#gh-dark-mode-only)](https://github.com/epicarchitect/github-readme-stats#gh-dark-mode-only)
+[![epicarchitect GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=epicarchitect&hide_border=true&count_private=true&show_icons=true&bg_color=21262d&border_radius=8.0&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![epicarchitect GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=epicarchitect&hide_border=true&count_private=true&border_radius=8.0&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/epicarchitect/github-readme-stats#gh-light-mode-only)
+[![epicarchitect GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=epicarchitect&hide_border=true&count_private=true&border_radius=8.0&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
