@@ -8,4 +8,5 @@ More about me [here](https://epicarchitect.github.io).
 - [Break Bad Habits](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.breakbadhabits)
 
 <img src="https://media.giphy.com/media/l0HlKjAZTc6NHCSdy/giphy.gif">
-[![epicarchitect github stats](https://github-readme-stats.vercel.app/api?username=epicarchitect&show_icons=true&theme=radical)](https://github.com/epicarchitect/github-readme-stats)
+
+[![epicarchitect GitHub stats](https://github-readme-stats.vercel.app/api?username=epicarchitect)](https://github.com/epicarchitect/github-readme-stats)
