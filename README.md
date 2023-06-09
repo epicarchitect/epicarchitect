@@ -7,7 +7,7 @@ More about me [here](https://epicarchitect.github.io).
 - [Epic to-do list](https://github.com/epicarchitect/epictodolist) [[download](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.epicto_dolist)]
 - [Break Bad Habits](https://github.com/epicarchitect/breakbadhabits) [[download](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.breakbadhabits)]
 
-### My Epic libs
+### My libs
 - [epic-calendar](https://github.com/epicarchitect/epic-calendar)
 - [epic-adapter](https://github.com/epicarchitect/epic-adapter)
 
