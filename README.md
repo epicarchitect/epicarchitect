@@ -4,8 +4,8 @@ I worked with <b>Java</b> for two years and then switched to <b>Kotlin</b>.
 More about me [here](https://epicarchitect.github.io).
 
 ### My apps
-- [Epic to-do list](https://github.com/epicarchitect/epictodolist) [[download](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.epicto_dolist)]
-- [Break Bad Habits](https://github.com/epicarchitect/breakbadhabits) [[download](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.breakbadhabits)]
+- [Epic to-do list](https://github.com/epicarchitect/epictodolist) [[google play](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.epicto_dolist)]
+- [Break Bad Habits](https://github.com/epicarchitect/breakbadhabits) [[google play](https://play.google.com/store/apps/details?id=kolmachikhin.alexander.breakbadhabits)]
 
 ### My libs
 - [epic-calendar](https://github.com/epicarchitect/epic-calendar)
